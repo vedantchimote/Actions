@@ -10,4 +10,5 @@ class GithubCicdActionsApplicationTests {
 	void contextLoads() {
 	}
 
+	//unnecccessary text to increase the commit count
 }
